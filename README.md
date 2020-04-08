@@ -42,6 +42,8 @@ matrix has not changed), then it should retrieve the inverse from the cache.
 
 ### Testing
 
+======================================
+
 > source("ProgrammingAssignment2/cachematrix.R")
 
 > my_matrix <- makeCacheMatrix(matrix(1:4, 2, 2))
@@ -104,3 +106,4 @@ getting cached data
 [1,]  0.6666667 -0.1666667
 [2,] -0.3333333  0.3333333
 
+=========================================
